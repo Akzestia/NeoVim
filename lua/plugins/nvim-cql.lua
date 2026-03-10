@@ -1,4 +1,3 @@
--- lua/plugins/nvim-cql.lua
 return {
   {
     "Akzestia/nvim-cql-v2",

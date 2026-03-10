@@ -2,7 +2,7 @@ return {
   "folke/snacks.nvim",
   opts = {
     explorer = {
-      replace_netrw = false, -- don't hijack netrw on start
+      replace_netrw = false,
     },
     dashboard = {
       preset = {

@@ -1,4 +1,3 @@
--- ~/.config/nvim/lua/plugins/snacks.lua
 return {
   "folke/snacks.nvim",
   opts = {
@@ -8,7 +7,7 @@ return {
     dashboard = {
       enabled = true,
       sections = {
-        { section = "header" }, -- only header, no startup line
+        { section = "header" },
       },
     },
     picker = {

@@ -5,3 +5,11 @@
 </div>
 
 <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/b42e1df3-7ada-4126-a65f-1b0eefb8244f" />
+
+</br>
+</br>
+
+<div align="center">
+  
+  [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
+</div>

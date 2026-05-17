@@ -13,5 +13,5 @@
 
 <div align="center">
   
-  [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,go,ts,cpp)](https://skillicons.dev)
 </div>

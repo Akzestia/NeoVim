@@ -1,7 +1,7 @@
 <div align="center">
   
   # アクゼスティア's NeoVim Config ^ ^
-  [English](README.md) | [日本語](README_jap.md) | [台灣中文](README_tw.md)
+  [English](README.md) | [日本語](README_jp.md) | [台灣中文](README_tw.md)
 </div>
 
 <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc3c6ef7-b88a-4820-bb18-abd81722fcf3" />

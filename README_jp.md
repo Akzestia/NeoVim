@@ -1,1 +1,17 @@
+<div align="center">
+  
+  # アクゼスティアのNeoVim設定 ^ ^
+  [English](README.md) | [日本語](README_jp.md) | [台灣中文](README_tw.md)
+</div>
 
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc3c6ef7-b88a-4820-bb18-abd81722fcf3" />
+
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/b42e1df3-7ada-4126-a65f-1b0eefb8244f" />
+
+</br>
+</br>
+
+<div align="center">
+  
+  [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,go,ts,cpp)](https://skillicons.dev)
+</div>
